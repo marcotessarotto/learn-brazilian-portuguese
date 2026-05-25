@@ -7,7 +7,7 @@ enota["unidade 2"] = (
     ("família", "famiglia"),
     ("pai", "padre"),
     ("mãe", "madre"),
-    ("pais", "genitori"),
+    ("pais", "Paese"),
     ("crianças", "bambini"),
     ("filho", "figlio"),
     ("filha", "figlia"),
